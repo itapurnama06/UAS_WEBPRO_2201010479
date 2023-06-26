@@ -1,0 +1,3 @@
+Ide Project : Project Katalog
+
+Deskripsi   : aplikasi yang membantu pengguna menemukan inspirasi visual dari berbagai topik, dimana aplikasi ini kita dapat menemukan ide-ide seperti inspirasi rumah,desain,gaya fashion,gambar foto,dan banyak lagi,selain itu kita dapat menemukan ide-ide baru. Selain itu aplikasi ini juga dapat berguna bagi orang yang membutuhkan katalog berbasis web untuk mendisplay product productnya,dan Katalog ini berfungsi sebagai panduan bagi pengguna untuk menemukan, menjelajahi, dan memilih produk yang mereka inginkan.
